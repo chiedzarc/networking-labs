@@ -18,11 +18,11 @@ Learn the basics of Cisco Packet Tracer and understand the workspace and interfa
 
 ---
 
-## 📁 Files
+## Files
 - 01-packet-tracer-introduction.pkt
 
 ---
 
-## 📚 Learning Outcome
+## Learning Outcome
 - Understanding Packet Tracer environment
 - Introduction to network simulation tools
