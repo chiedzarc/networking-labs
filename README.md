@@ -27,5 +27,11 @@ By completing these labs, I aim to:
 ## Progress
 This is an ongoing learning repository. New labs will be added regularly as I progress through networking concepts.
 
+### 01 - Introduction
+Basic Packet Tracer setup and device familiarity.
+
+### 02 - Connecting Devices
+Understanding how devices communicate using cables and basic configurations.
+
 ## Author
 Chiedza – Computer Science Student  
